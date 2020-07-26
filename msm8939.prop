@@ -1,0 +1,6 @@
+# Display
+ro.opengles.version=196610
+
+# Perf
+ro.min_freq_0=533333
+ro.min_freq_4=499200
